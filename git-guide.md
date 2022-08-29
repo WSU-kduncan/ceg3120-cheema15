@@ -57,7 +57,8 @@ The .gitignore file is used for when you want to hide a file. so basically when 
 - Pull requests-
 The pull request is for when you are working in a group and you want to commit changes with your group you can tell them the chnages you made an they can accept the pull and then after you commit the changes together then you push them onto the main branch. 
 
-- SSH authentication to repositories
+- SSH authentication to repositories-
+When in wsl to connect to git hub you need to connect the repos with the ssh key. you generate two keys when you create a key. one is public an done is private. Both keys are very important becasue to connect to git hub you need to use your public key. That is a key that can be shared and will not have the same information as the private key. the private key is like your house key. you dont want to give it to anyone or let anyone see it. The key that gitHub uses is the public key. git hub has its own encrypted keys to encrpt messages we read through our public key.
 
 ## Resources
 
