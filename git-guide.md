@@ -1,9 +1,9 @@
-Project0 - Git Guide
+# Project0 - Git Guide
 
 In your repo for this course, create a file named `git-guide.md`. In this file, write up a quick guide to using git & GitHub. For each command, include a brief definition of what it does, and a sample of how to use it. `status` has a sample of what a well done filled in entry looks like.
 
 Entries that are currently crossed out we will get to later in the course that you could go back and write some details on later.
-#Commit line
+##Commit line
 
   - Shows status of the local repository. This status includes:
     - number of local commits that have not been synced with remote (GitHub)
