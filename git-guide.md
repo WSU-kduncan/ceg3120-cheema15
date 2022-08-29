@@ -3,7 +3,7 @@ clone-the git clone basically makes a a copy of the repository. you can accesses
 
 Add-the add basically adds the the file into a certian index. It is the command that comes before the git commmit command.
 
-rm- rm is used the remove files from the repo and from the local repo itself. but there are also ways to use the git rm command and make it to where you can only remove it in the remote repo. for example is you were to do git rm -catched then it will no longer be in you remote repo and only be able to be accesed by the local repo.
+rm- rm is used the remove files from the repo and from the local repo itself. but there are also ways to use the git rm command and make it to where you can only remove it in the remote repo. for example is you were to do git rm -catched then it will no longer be in you remote repo and only be able to be accesed by the local repo. so bascially it hides it and make it a not tracked file
 
 commit- The git commit command is basically a not to what you did to the files before you added it. You can write in chnages and add in future references that you moght need so that you know what has been done and what you will have to do next.
  
@@ -17,4 +17,4 @@ pull- the pull command is used when you have something in the remote repo and wh
 
 branch- branch is useful when you have group projects or work that you dont want to put out on main beause main is public. the branch is good for group work and projects because you can each have your own branch and commit with the the request and conformation from other group members.
 
-checkout- the checkout command is used when you you want to leave a branch and go to another branch. you would do git checkout main to go into the main branch from the branch you are in.
+checkout- the checkout command is used when you you want to leave a branch and go to another branch. you would do git checkout main to go into the main branch from the branch you are .
