@@ -15,5 +15,5 @@
 ![Screenshot (116)](https://user-images.githubusercontent.com/97908618/192109952-5104692a-85ac-42db-a296-2e6731ab792a.png)
 
 ## Create a route table
--A route table tells us where network traffic is going or where the gateway is sending and receiving data.
+-A route table tells us where network traffic is going or where the gateway is sending and receiving data. This can happen with or without the subnet.
 ![Screenshot (115)](https://user-images.githubusercontent.com/97908618/192110049-9d222cb8-28e8-49b7-b634-b1c2dba5080a.png)
