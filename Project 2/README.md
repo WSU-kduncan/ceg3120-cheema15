@@ -9,7 +9,6 @@
 ![Screenshot (112)](https://user-images.githubusercontent.com/97908618/192109751-68f44b59-3f26-4f95-8d43-5a61581eb93f.png)
 ![Screenshot (114)](https://user-images.githubusercontent.com/97908618/192109752-4df1fede-2c0e-4a9b-bb26-8b06d3387b34.png)
 ![Screenshot (118)](https://user-images.githubusercontent.com/97908618/192110257-2926e8bf-bbbc-4f5f-9642-5f4a3d084526.png)
-![Screenshot (119)](https://user-images.githubusercontent.com/97908618/192287038-59b22393-b1c9-435e-90ea-65fff720d9ff.png)
 
 ## Create an internet gateway
 -A internet gateway is basically when a network sends data it stops at the gateway so that we can send and recive data.
@@ -18,3 +17,5 @@
 ## Create a route table
 -A route table tells us where network traffic is going or where the gateway is sending and receiving data. This can happen with or without the subnet.
 ![Screenshot (115)](https://user-images.githubusercontent.com/97908618/192110049-9d222cb8-28e8-49b7-b634-b1c2dba5080a.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/97908618/192287038-59b22393-b1c9-435e-90ea-65fff720d9ff.png)
+
