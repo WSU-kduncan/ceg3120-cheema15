@@ -15,3 +15,10 @@
 ![Screenshot (115)](https://user-images.githubusercontent.com/97908618/192110049-9d222cb8-28e8-49b7-b634-b1c2dba5080a.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/97908618/192287038-59b22393-b1c9-435e-90ea-65fff720d9ff.png)
 
+## New instance
+-The AMI that i selcted was the ubuntu AMI. I used the Ubuntu AMI because i am using the Ubuntu defult user for my system.
+
+-How i connected my VPC to my instace is when i created my instace i had edited the network settings and changed the VPC to my Cheema-vpc
+
+![Screenshot (126)](https://user-images.githubusercontent.com/97908618/192825615-ccac8dc4-53f2-48a0-a269-180cc627aac7.png)
+
