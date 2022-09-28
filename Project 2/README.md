@@ -1,7 +1,5 @@
 ## Create a VPC
 -A vpc is a virtual private cloud. It is a private cloud that you can use to create your own data centers and create things like subnets.
-![Screenshot (110)](https://user-images.githubusercontent.com/97908618/192109356-78c127b5-4feb-4eb4-9790-ed5751446d03.png)
-![Screenshot (111)](https://user-images.githubusercontent.com/97908618/192109359-dfebd6e0-bc64-42d5-8432-b98ded4e306d.png)
 ![Screenshot (117)](https://user-images.githubusercontent.com/97908618/192110253-514d3340-a0db-4c35-a8a2-ab2d9fc843f2.png)
 
 ## Create a subnet
