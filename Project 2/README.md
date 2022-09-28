@@ -4,8 +4,6 @@
 
 ## Create a subnet
 -A subnet is a range of ip adresses that are in your VPC. Each subnet has its own Availability zone.
-![Screenshot (112)](https://user-images.githubusercontent.com/97908618/192109751-68f44b59-3f26-4f95-8d43-5a61581eb93f.png)
-![Screenshot (114)](https://user-images.githubusercontent.com/97908618/192109752-4df1fede-2c0e-4a9b-bb26-8b06d3387b34.png)
 ![Screenshot (118)](https://user-images.githubusercontent.com/97908618/192110257-2926e8bf-bbbc-4f5f-9642-5f4a3d084526.png)
 
 ## Create an internet gateway
