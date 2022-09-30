@@ -28,12 +28,9 @@
 
 -The AMI that i selcted was the ubuntu AMI. I used the Ubuntu AMI because i am using the Ubuntu defult user for my system.
 -When the machine got created it chose for itself a private Ip adress. WHat we have to do is take out elastic ip and associate it with our instance. It will the auto selct a private ip adress.
-
 -How i connected my VPC to my instace is when i created my instace i had edited the network settings and changed the VPC to my Cheema-vpc
-
 -How i created my instance was i went onto the new instances tab clicked on launch instances. Then i taged it with my last name naming it Cheema-instance.
 -To get my Elastic ip adress i went under the network tab and clicked on elastic ip and then clicked on allocate elastic ip. And then also taged it with my last name.
--
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/97908618/192825615-ccac8dc4-53f2-48a0-a269-180cc627aac7.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/97908618/192926138-a114529e-a608-4e58-9c38-403af14c06d2.png)
