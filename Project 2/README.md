@@ -33,7 +33,7 @@
 -How i created my instance was i went onto the new instances tab clicked on launch instances. Then i taged it with my last name naming it Cheema-instance.
 -To get my Elastic ip adress i went under the network tab and clicked on elastic ip and then clicked on allocate elastic ip. And then also taged it with my last name.
 -To add the security group under the network sttings tab there is a button that says add existing securit group and once you click on that it will provide you with the different security groups that you have!
-![Screenshot (126)](https://user-images.githubusercontent.com/97908618/192825615-ccac8dc4-53f2-48a0-a269-180cc627aac7.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/97908618/193452639-7890d327-2361-44dd-9166-9fad98dc5a16.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/97908618/192926138-a114529e-a608-4e58-9c38-403af14c06d2.png)
 
 
