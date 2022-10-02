@@ -36,4 +36,5 @@
 ![Screenshot (131)](https://user-images.githubusercontent.com/97908618/193452639-7890d327-2361-44dd-9166-9fad98dc5a16.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/97908618/192926138-a114529e-a608-4e58-9c38-403af14c06d2.png)
 
+-To chnage my host name what i had done was first i had to ssh into my system. how i ssh in is i run this command ssh -i ceg3120key.pem ubuntu@"my public ip adress here" Then to change the hostmane i ran the comman sudo hostnamectl set-hostname Cheema-Ubuntu . this then chnaged my host name once i reset my system!
 
