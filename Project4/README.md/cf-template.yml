@@ -1,0 +1,25 @@
+## HAProxy configuration & documentation requirements
+1. How to set up a HAProxy load balancer
+Install haproxy. # yum install haproxy.
+Configure haproxy for SELinux and HTTP.
+If you intend to use HTTPS, configure haproxy for SELinux and HTTPS.
+If you intend to use HTTPS, generate keys for SSL.
+Configure HAProxy.
+Enable/start haproxy.
+
+2. What file(s) where modified & their location
+ Configuration file is modified and location is: /etc/haproxy/haproxy. cfg with defining settings.
+ 
+3. What configuration(s) were set (if any)
+ The set of parameters that can be changed in hardware, software, or firmware that affect the security posture and/or functionality of the information system.
+ 
+4. How to restart the service after a configuration change
+ Step 1: Open a command prompt. Press Ctrl+Alt+Del. The system should display a menu - click on Task Manager.
+ Step 2: Restart the Windows Server operating system. In the Command Prompt window, type the Windows Server restart command and press Enter: shutdown –r.
+ 
+ 5. Resources used (websites)
+  Techtarget.com
+  
+ ## Webserver 1 & 2 configuration & documentation requirements
+ 
+
