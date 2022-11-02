@@ -22,4 +22,7 @@ Enable/start haproxy.
   
  ## Webserver 1 & 2 configuration & documentation requirements
  
-
+2.The web server is configured and downloaded as a part of the web server. There are two main configurations to setup which is :
+The web server plugin file
+The web server plugin configuration.
+3. The site content files were located in the root folder where all the content associated with the website is accessible for consideration.
