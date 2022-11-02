@@ -26,3 +26,5 @@ Enable/start haproxy.
 The web server plugin file
 The web server plugin configuration.
 3. The site content files were located in the root folder where all the content associated with the website is accessible for consideration.
+4. To continue the services after their configuration there are two points to recognize: You have to reboot your network quickly. 
+You have to go through the command prompt and type some commands to reset the configuration.
